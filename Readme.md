@@ -1,47 +1,36 @@
 # Zero to ML Engineer
 
-# Zero to ML Engineer
+Final year CS student (UMT Lahore) building toward a career in
+AI/ML Engineering through a structured 24-month self-training program.
 
-**Name:** Muhammad Hammad Shafique
-**Goal:** ML Engineer at 300k+ PKR/month by Month 18
-**Started:** June 12, 2026
-**Location:** Lahore, Pakistan
+## About
 
-## The Plan
+This repository documents my hands-on learning journey — covering
+Python, algorithms, mathematics for machine learning, and ML/DL
+foundations, alongside practical projects.
 
-Following a structured AI/ML roadmap:
+## Current Focus
 
-- Month 0: Foundations (Logic, Maths, Python, Big O)
-- Month 2: Employed as junior developer — ML study begins evenings
-- Month 6: Andrew Ng ML Specialization complete, first ML project live
-- Month 10: First model deployed, Kaggle active, Upwork profile created
-- Month 18: ML Specialist — NLP or Computer Vision, 300k+ target
+**Week 1 — Python Fundamentals**
+Working through core Python syntax, data structures, OOP, and
+building small projects to reinforce each concept.
 
-## Current Status
+## Roadmap
 
-Week 0 — Logic, Big O, Environment Setup ✓
+- Foundations: Logic, algorithms, Big O, Python core
+- Machine Learning: Supervised/unsupervised learning, model evaluation
+- Deep Learning: Neural networks, CNNs, transformers
+- MLOps: Model deployment, APIs, cloud basics
 
-## Tracks
+## Projects
 
-- Core: Python → Maths → ML → Deep Learning → MLOps
-- MS AI target: LUMS or FAST-NUCES Lahore (Year 2-3)
-- PhD target: Germany / Netherlands / Canada (Year 4-5)
+- `Day08/` — Python fundamentals: calculators, converters, string formatting
 
-**Name:** Muhammad Hammad Shafique
-**Goal:** Job-ready Full Stack Developer, QA Engineer, and Data Analyst by July 2026
-**Started:** June 12, 2026
-**Location:** Lahore, Pakistan
+## Tech Stack
 
-## What this repo is
+Python · NumPy · Pandas · Scikit-learn (upcoming) · Git/GitHub
 
-This is my public learning journal. Every project, every exercise, and every milestone from my 4-month training program will be tracked here.
+## Connect
 
-## Tracks
-
-- Primary: MERN Full Stack Development
-- Fallback: QA Engineering (Manual → Automation)
-- Backup: Data Analysis
-
-## Current status
-
-Week 0 — Foundation (Logic, Big O, Environment Setup)
+[LinkedIn](https://linkedin.com/in/muhammad-hammad-shafique) ·
+[GitHub](https://github.com/hammad66b1)
